@@ -1,0 +1,10 @@
+{
+  "name": "右击视频播放",
+  "description": "右击视频播放",
+  "version": "0.7",
+  "permissions": ["contextMenus"],
+  "background": {
+    "service_worker": "sample.js"
+  },
+  "manifest_version": 3
+}

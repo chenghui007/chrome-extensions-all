@@ -1,0 +1,324 @@
+
+.content {
+    margin: 0, auto;
+    background-color: transparent;
+}
+
+.header {
+    opacity: 1;
+    background: rgba(70, 167, 245, 1);
+    padding: 10px 80px 10px 80px;
+}
+
+.ht {
+    margin: 0 auto;
+    width: 1280px;
+    height: 32px;
+    opacity: 1;
+    align-items: center;
+}
+
+.logo {
+    margin-top: 2px;
+    margin-left: 1px;
+    float: left;
+    width: 30px;
+    height: 25.32px;
+    opacity: 1;
+}
+
+.ht .search {
+    float: left;
+    margin-left: 475px;
+    top: 0px;
+    width: 226px;
+    height: 32px;
+    opacity: 1;
+    border-radius: 9999px;
+    background: rgba(243, 244, 246, 1);
+    align-items: center;
+    padding: 4px 12px 4px 12px;
+    vertical-align: middle;
+}
+
+
+.ht .search input {
+    margin-left: 0px;
+    top: 0px;
+    width: 178px;
+    height: 24px;
+    opacity: 1;
+    /** 文本1 */
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: rgba(154, 163, 176, 1);
+    text-align: left;
+    vertical-align: middle;
+}
+
+.ht .user {
+    margin-left: 516px;
+    float: left;
+    width: 32px;
+    height: 32px;
+    border-radius: 9999px;
+    opacity: 1;
+    background: url(https://img.js.design/assets/img/6438dbd655729bc8feb55cc5.png);
+}
+
+.statistics {
+    height: 360px;
+    background: rgba(243, 244, 246, 1);
+    opacity: 1;
+    padding: 40px 15px 40px 16px;
+}
+
+.statistics .stcontent {
+    margin: 0 auto;
+    width: 1280px;
+}
+
+.statistics .stcontent h2 {
+    margin-bottom: 40px;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 0px;
+    line-height: 32px;
+    color: rgba(31, 41, 55, 1);
+    text-align: left;
+    vertical-align: middle;
+}
+
+.statistics .stcontent .taskdone {
+    float: left;
+    margin-right: 40px;
+    margin-left: 16px;
+    width: 389px;
+    height: 208px;
+    opacity: 1;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(0, 0, 0, 0), 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -4px rgba(0, 0, 0, 0.1);
+    padding: 32px 24px 104px 24px;
+}
+
+.statistics .stcontent h6 {
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 28px;
+    color: rgba(31, 41, 55, 1);
+    text-align: left;
+}
+
+.statistics .stcontent .taskdone div {
+    margin-top: 8px;
+}
+
+.statistics .stcontent .taskdone div span {
+    font-size: 30px;
+    font-weight: 900;
+    letter-spacing: 0px;
+    line-height: 36px;
+    color: rgba(0, 0, 0, 1);
+    text-align: left;
+}
+
+
+
+
+.statistics .stcontent .taskdis {
+    float: left;
+    margin-right: 40px;
+    width: 389px;
+    height: 208px;
+    opacity: 1;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(0, 0, 0, 0), 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -4px rgba(0, 0, 0, 0.1);
+    padding: 32px 24px 104px 24px;
+}
+
+
+.statistics .stcontent .taskdis ul li {
+    position: relative;
+    margin-top: 8px;
+    width: 394px;
+    height: 24px;
+    align-items: center;
+}
+
+.statistics .stcontent .taskdis ul li:before {
+    content: "";
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: rgba(70, 167, 245, 1);
+}
+
+.statistics .stcontent .taskdis ul .item {
+    display: inline-block;
+    margin-left: 122px;
+    width: 42px;
+    height: 20px;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: rgba(55, 65, 81, 1);
+    text-align: left;
+
+}
+
+
+.statistics .stcontent .taskdis ul .item-count {
+    width: 19px;
+    height: 24px;
+    opacity: 1;
+    margin-left: 102px;
+    display: inline-block;
+    /** 文本1 */
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: rgba(31, 41, 55, 1);
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+
+
+
+.statistics .stcontent .taksprocess {
+    float: left;
+    margin-right: 15px;
+    width: 389px;
+    height: 208px;
+    opacity: 1;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(0, 0, 0, 0), 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -4px rgba(0, 0, 0, 0.1);
+    padding: 32px 24px 104px 24px;
+}
+
+.statistics .stcontent .taksprocess progress {
+    width: 341px;
+    height: 8px;
+    opacity: 1;
+}
+
+
+
+
+.card-info {
+    opacity: 1;
+    background: rgba(243, 244, 246, 1);
+    padding: 0px 80px 0px 80px;
+}
+
+.card-content {
+    margin: 0 auto;
+    width: 1280px;
+    padding-bottom: 40px;
+
+}
+
+.card-content h2 {
+    margin-top: 16px;
+    height: 32px;
+    font-size: 24px;
+    font-weight: 900;
+    letter-spacing: 0px;
+    line-height: 32px;
+    color: rgba(31, 41, 55, 1);
+    text-align: left;
+    vertical-align: middle;
+}
+
+.card-content ul {
+    list-style: none;
+}
+
+.card-content li {
+    position: relative;
+    float: left;
+    margin-right: 32px;
+    margin-top: 40px;
+    width: 288.25px;
+    height: 152px;
+    opacity: 1;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0px 0px 0px rgba(0, 0, 0, 0), 0px 0px 0px rgba(0, 0, 0, 0), 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 4px 6px -4px rgba(0, 0, 0, 0.1);
+}
+
+.card-content li:nth-child(4n) {
+    margin-right: 16px;
+}
+
+
+
+.fooder {
+    width: 100%;
+    height: 120px;
+    opacity: 1;
+    background: rgba(31, 41, 55, 1);
+    padding: 40px 80px 40px 80px;
+}
+
+.fooder p {
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: rgba(156, 163, 175, 1);
+    text-align: left;
+}
+
+.card-info .card-content li .taskInfo {
+    padding-top: 24px;
+    padding-top: 24px;
+    padding-left: 24px;
+}
+
+.card-info .card-content li .taskInfo h6 {
+    line-height: 26px;
+    font-size: 20px;
+    font-weight: 900;
+    letter-spacing: 0px;
+    line-height: 28px;
+    color: rgba(0, 0, 0, 1);
+    text-align: left;
+    vertical-align: middle;
+    margin-bottom: 16px;
+}
+
+.card-info .card-content li .taskDesc {
+    height: 24px;
+    margin-bottom: 16px;
+    line-height: 24px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing: 0px;
+    line-height: 24px;
+    color: rgba(75, 85, 99, 1);
+    text-align: left;
+    vertical-align: middle;
+}
+
+.card-info .card-content li .taskTime {
+    height: 24px;
+    margin-bottom: 16px;
+    line-height: 24px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0px;
+    line-height: 20px;
+    color: rgba(107, 114, 128, 1);
+    text-align: left;
+}

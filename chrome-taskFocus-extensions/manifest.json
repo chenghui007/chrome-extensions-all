@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "任务小助手",
+  "version": "1.0",
+  "description": "任务小组手",
+  "background": {
+    "service_worker": "bg-wrapper.js"
+  },
+  "permissions": ["alarms"],
+  "action": {}
+}
